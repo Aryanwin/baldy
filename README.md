@@ -1,2 +1,1 @@
-# baldy
-bald
+# Project-Template BB2
